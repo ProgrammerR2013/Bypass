@@ -10,7 +10,7 @@ Just a normal bypass script.
 403-Bypasser Instructions: 👨🏻‍💻
 
 Step 1:
-Open Termnial 💻
+Open Terminal 💻
 
 Step 2:
 Locate to the directory where python file is located 📂
@@ -23,6 +23,10 @@ Sit back and Relax. Let the Script do the Job. ☕
 
 Sample: 🐻
 
-![Screenshot_20210129_135447](https://i.imgur.com/j8t2d2w.png)
+(https://i.imgur.com/j8t2d2w.png)
 
 The Script is Yours.. Happy Hacking 👨🏻‍💻
+
+Note:
+It took me 2 weeks to make this script, if you have any improvements or if you find any bugs, contact me at nalawaderudra1@gmail.com
+
