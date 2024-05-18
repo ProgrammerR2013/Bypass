@@ -27,6 +27,8 @@ Sample: 🐻
 
 The Script is Yours.. Happy Hacking 👨🏻‍💻
 
+Note: Use "403bypass.py" for the tool, not script.py
+
 Note:
 It took me 2 weeks to make this script, if you have any improvements or if you find any bugs, contact me at nalawaderudra1@gmail.com
 
