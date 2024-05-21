@@ -1,4 +1,6 @@
 # 403-Bypass
+EDUCATIONAL PURPOSES ONLY
+
 Just a normal bypass script.
 
 403-Bypasser Functionalities : 🚀
